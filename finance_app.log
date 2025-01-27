@@ -1,0 +1,14 @@
+
+2025-01-27 22:08:34,452 - INFO - Database created/updated successfully
+2025-01-27 22:09:44,896 - INFO - New user registered: kabir
+2025-01-27 22:10:15,097 - INFO - User logged in: kabir
+2025-01-27 22:11:05,006 - INFO - Transaction added for user 2: Income - 1150.0
+2025-01-27 22:11:41,272 - INFO - Transaction 6 updated for user 2
+2025-01-27 22:12:02,990 - INFO - Budget set for user 2: Petrol - 1500.0
+2025-01-27 22:12:38,498 - INFO - Transaction added for user 2: Expense - 1450.0
+2025-01-27 22:13:07,988 - ERROR - Database error: near "type": syntax error
+2025-01-27 22:13:07,988 - ERROR - Failed to generate reports: near "type": syntax error
+2025-01-27 22:14:28,500 - INFO - Database created/updated successfully
+2025-01-27 22:14:34,796 - INFO - Database backed up to finance_backup_20250127_221434.db
+2025-01-27 22:14:59,262 - INFO - Database restored from finance_backup_20250127_221434.db
+2025-01-27 22:15:12,044 - INFO - User logged in: kabir
