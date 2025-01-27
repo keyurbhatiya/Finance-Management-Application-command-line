@@ -190,3 +190,9 @@ The Finance Dashboard is a command-line Python application that allows users to 
    | amount      | REAL    | Budget amount                 |
 
 ---
+### **Contact**
+- **Author:** Keyur Bhatiya
+- **GitHub Profile:** [Keyur Bhatiya](https://github.com/keyurbhatiya)
+
+Happy Coding! 🚀
+---
