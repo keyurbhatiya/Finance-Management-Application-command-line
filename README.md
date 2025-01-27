@@ -114,7 +114,7 @@ The Finance Dashboard is a command-line Python application that allows users to 
 1. Clone the repository:
    ```bash
    git clone https://github.com/keyurbhatiya/Finance-Management-Application-command-line.git
-   cd 
+   
    ```
 2. Install dependencies:
    No external dependencies are required. Python's built-in `sqlite3` is used.
